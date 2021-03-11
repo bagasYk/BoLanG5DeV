@@ -118,27 +118,27 @@ MOVIES
 #EXTM3U
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF: -1 group-title = "MOVIES" tvg-logo = "https://i.ibb.co/9WJBzBH/foxmovies.png", FOX MOVIES
+#EXTINF: -1 group-title = "MOVIES" tvg-logo = "https://i.ibb.co/80MQWfc/foxmovies.png",FOX MOVIES PREMIUM
 https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF: -1 group-title = "MOVIES" tvg-logo = "https://i.ibb.co/zHYS8sP/foxactionmovies.png", FOX ACTION
+#EXTINF: -1 group-title = "MOVIES" tvg-logo = "https://i.ibb.co/1GdLj4r/fox-action-movie.png",FOX ACTION PREMIUM
 https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF: -1 group-title = "MOVIES" tvg-logo = "https://i.ibb.co/9WJBzBH/foxmovies.png", FOX FAMILY
+#EXTINF: -1 group-title = "MOVIES" tvg-logo = "https://i.ibb.co/K2vdSWB/fox-family-movie.png",FOX FAMILY PREMIUM
 https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF: -1 group-title = "MOVIES" tvg-logo = "https://i.ibb.co/WHS5GLc/fox.png", FOX
+#EXTINF: -1 group-title = "MOVIES" tvg-logo = "https://i.ibb.co/QFzXnyX/fox.png",FOX PREMIUM
 https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF: -1 group-title = "MOVIES" tvg-logo = "https://i.ibb.co/N2QyPx7/foxlife.png", FOX LIFE
+#EXTINF: -1 group-title = "MOVIES" tvg-logo = "https://i.ibb.co/935p3wR/foxlife.png",FOX LIFE PREMIUM
 https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF: -1 group-title = "MOVIES" tvg-logo = "https://i.ibb.co/Ch6wScc/foxcrime.png", FOX CRIME
+#EXTINF: -1 group-title = "MOVIES" tvg-logo = "https://i.ibb.co/MGVfxqP/foxcrime.png",FOX CRIME PREMIUM
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
