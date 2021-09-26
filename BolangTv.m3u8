@@ -1,3 +1,5 @@
+HALOW GAESSSS TERIMAKASIH SELAMA INI TELAH BERSAMA BOLANG'TV
+
 INDONESIA
 #EXTM3U
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
@@ -403,32 +405,6 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 SPORT
 #EXTM3U
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
-#KODIPROP: inputstream.adaptive.license_key = https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF: -1tvg-ID group-title = "SPORT" tvg-logo = "http://images.useetv.com/logo_bein1_big1.png", BEIN SPORTS 01
-https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
-#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
-#KODIPROP: inputstream.adaptive.license_key = https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF: -1tvg-ID group-title = "SPORT" tvg-logo = "http://images.useetv.com/logo_bein2_big1.png", BEIN SPORTS 02
-https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
-#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
-#KODIPROP: inputstream.adaptive.license_key = https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF: -1tvg-ID group-title = "SPORT" tvg-logo = "http://images.useetv.com/logo_foxsports1_big.png", FOX SPORTS ID 01
-https://liveanevia.mncnow.id/live/eds/FOXSports/sa_dash_vmx/FOXSports.mpd
-#EXTINF: -1tvg-ID group-title = "SPORT" tvg-logo = "http://images.useetv.com/logo_foxsports1_big.png", FOX SPORTS ID 01 BACK'UP
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
-#KODIPROP: inputstream.adaptive.license_key = https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF: -1tvg-ID group-title = "SPORT" tvg-logo = "http://images.useetv.com/logo_foxsports2_big.png", FOX SPORTS ID 02
-https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_dash_vmx/FoxSports2.mpd
-#EXTINF: -1tvg-ID group-title = "SPORT" tvg-logo = "http://images.useetv.com/logo_foxsports2_big.png", FOX SPORTS ID 02 BACK'UP
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
-#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF: -1tvg-ID group-title = "SPORT" tvg-logo = "http://images.useetv.com/logo_foxsports3_big.png", FOX SPORTS ID 03
-https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
-#EXTINF: -1tvg-ID group-title = "SPORT" tvg-logo = "http://images.useetv.com/logo_foxsports3_big.png", FOX SPORTS ID 03 BACK'UP
-https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF: -1tvg-ID group-title = "SPORT" tvg-logo = "https://i.ibb.co/5MPbzKN/mncsport1.png",MNC SPORT
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
@@ -449,15 +425,15 @@ http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8
 http://spacetv.in/stream/DIPK8H19CP8/279.m3u8
 #EXTINF: -1tvg-ID tvg-logo = "https://i.ibb.co/bQp67vQ/images-13.png" group-title = "SPORT", ASTRO ARENA HD
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
-#EXTINF: -1tvg-ID tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title = "SPORT", Bein Sports 1 HD
+#EXTINF: -1tvg-ID tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title = "SPORT", Bein Sports 1 HD OFF
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.m3u8
-#EXTINF: -1tvg-ID tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title = "SPORT", Bein Sports 2 HD
+#EXTINF: -1tvg-ID tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title = "SPORT", Bein Sports 2 HD OFF
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1437.m3u8
-#EXTINF: -1tvg-ID tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title = "SPORT", Bein Sports 3 HD
+#EXTINF: -1tvg-ID tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title = "SPORT", Bein Sports 3 HD OFF
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1438.m3u8
-#EXTINF: -1tvg-ID tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title = "SPORT", Bein Sports 4 HD
+#EXTINF: -1tvg-ID tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title = "SPORT", Bein Sports 4 HD OFF
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1439.m3u8
-#EXTINF: -1tvg-ID tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title = "SPORT", Bein Sports 5 HD
+#EXTINF: -1tvg-ID tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title = "SPORT", Bein Sports 5 HD OFF
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1440.m3u8
 #EXTINF: -1tvg-ID tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title = "SPORT", Bein Sports 6 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1441.m3u8
